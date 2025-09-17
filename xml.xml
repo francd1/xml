@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE Persona>
+<PersonaRoyale>
+<id>1</id>
+<nombre>fran</nombre>
+<edad>19</edad>
+<Direcciones>Calle la hermita , calle los huertos </Direcciones>
+<ciudad>malaga</ciudad>
+<provincia>malaga</provincia>
+<codigo_postal>29780</codigo_postal>
+<altura>170cm</altura>
+
+
+<id>2</id>
+<nombre>juan</nombre>
+<edad>50</edad>
+<Direcciones>Calle parras , calle ferrandis </Direcciones>
+<ciudad>madrid</ciudad>
+<provincia>madrid</provincia>
+<codigo_postal>29720</codigo_postal>
+</PersonaRoyale>
