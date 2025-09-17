@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Usuarios>
+  <Usuario id="1">
+    <Nombre>Lucía</Nombre>
+    <Edad>28</Edad>
+    <Email>lucia@example.com</Email>
+    <Direccion>
+      <Calle>Avenida del Mar</Calle>
+      <Ciudad>Valencia</Ciudad>
+      <CodigoPostal>46001</CodigoPostal>
+    </Direccion>
+  </Usuario>
+
+  <Usuario id="2">
+    <Nombre>Carlos</Nombre>
+    <Edad>35</Edad>
+    <Email>carlos@example.com</Email>
+    <Direccion>
+      <Calle>Calle Mayor</Calle>
+      <Ciudad>Madrid</Ciudad>
+      <CodigoPostal>28013</CodigoPostal>
+    </Direccion>
+  </Usuario>
+</Usuarios>
